@@ -93,7 +93,7 @@ Click "Install now."
    Setting up version contril system
  1.Install Git 
 -Configure Git with your name and email:
-![configuring email and name](<bash 3.PNG>)
+![alt text](<bash 3.PNG>)
 2.Create a GitHub Account at GitHub.
 -Create a New Repository on GitHub.
 -Initialize a Git Repository locally:
